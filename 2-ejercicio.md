@@ -6,15 +6,18 @@
 # COMPLETAR
 
 La figura presenta el esquema creado en donde los puertos son:
-- a: (completar con el valor)
-- b: (completar con el valor)
-- c: (completar con el valor)
+- a: 8080
+- b: 80
+- c: 5432
 
 ![Imagen](esquema-2-ejercicio.PNG)
 
 ## Desde el cliente
 ### Acceder desde el cliente al servidor postgres creado.
 # COMPLETAR CON UNA CAPTURA DEL LOGIN
+
+<img width="1892" height="844" alt="image" src="https://github.com/user-attachments/assets/51d65919-05ee-401b-aa10-0dcd4b090c10" />
+
 ### Crear la base de datos info, y dentro de esa base la tabla personas, con id (serial) y nombre (varchar), agregar un par de registros en la tabla, obligatorio incluir su nombre.
 
 ## Desde el servidor postgresl
