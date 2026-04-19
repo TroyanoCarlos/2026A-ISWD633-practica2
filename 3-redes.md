@@ -59,8 +59,15 @@ docker network ls
 !\[Imagen](esquema-ejercicio-redes.PNG)
 
 # COLOCAR UNA CAPTURA DE LAS REDES EXISTENTES CREADAS
+<img width="773" height="245" alt="image" src="https://github.com/user-attachments/assets/9f570805-28e2-4da8-87c8-42d840ed6fda" />
 
 # COLOCAR UNA(S) CAPTURAS(S) DE LOS CONTENEDORES CREADOS EN DONDE SE EVIDENCIE A QUÉ RED ESTÁN VINCULADOS
+
+<img width="909" height="936" alt="image" src="https://github.com/user-attachments/assets/e9223dd0-a368-4578-b0c0-8f0f3fc314d3" />
+
+<img width="969" height="834" alt="image" src="https://github.com/user-attachments/assets/11d35690-df9d-4d52-94cc-feb53b9c28bc" />
+
+
 
 ### Para eliminar las redes creadas
 
